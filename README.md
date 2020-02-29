@@ -17,3 +17,5 @@ output :
   ....  
   [nil, nil, [2], [0, 0, 1]]  
   [nil, nil, nil, [0, 0, 1, 2]]  
+  
+I recommand using getCombinationWithGroupingAtIndex() instead of getFullCombinationWithGrouping due to the stack overflow
