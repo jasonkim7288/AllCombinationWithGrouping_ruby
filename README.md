@@ -1,6 +1,6 @@
 # AllCombinationWithGrouping_ruby
 
-This is for creating all possible combination of Array if the input is an Array that each element is the number of items with their position.  
+### This is for creating all possible combination of Array if the input is an Array that each element is the number of items with their position.  
 The example of input and output is as below.  
 
 input : [2, 1, 1]  
